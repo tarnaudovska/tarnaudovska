@@ -19,10 +19,6 @@ I am a Python programmer. I ❤️ coffee and make wish cards.
 *   Udemy course: "The Complete Python Bootcamp From Zero to Hero in Python."
 
 * * *
-
-
----
-
 ## 🛠️ Skills & Expertise
 
 ### Python Development
