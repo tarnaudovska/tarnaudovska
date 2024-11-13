@@ -20,33 +20,36 @@ I am a Python programmer. I ❤️ coffee and make wish cards.
 
 * * *
 
-### Skills
 
-Python 3
+---
 
-⭐️⭐️⭐️
+## 🛠️ Skills & Expertise
 
-Python GUI development with Tkinter
+### Python Development
+- **Python 3**: Good knowledge in Python programming.
+- **Python GUI Development**: Experience with building graphical interfaces using Tkinter.
+- **Automation**: Developing efficient scripts for automating tasks and processes.
+- **Game Development**: Creating engaging games with Python.
 
-⭐️⭐️⭐️⭐️
+### Data Science
+- **Data Analysis**: Utilizing Pandas for data manipulation and analysis.
+- **Development Environments**: Working proficiently in PyCharm and Jupyter Notebook for data projects.
 
-Front-end development: HTML5, CSS3, and Bootstrap 4
+### Front-End Development
+- **HTML5 & CSS3**: Building responsive and accessible web pages.
+- **Bootstrap 4**: Designing mobile-first, dynamic web interfaces.
 
-⭐️⭐️⭐️
+### Back-End Development
+- **Flask**: Building robust backend applications with Flask.
+- **REST APIs**: Designing and implementing RESTful APIs for data exchange.
+- **SQL**: Database management and query execution.
+- **Web Authentication**: Implementing secure user authentication and authorization.
 
-Backend development: Flask, REST APIs, SQL, and authentication
+### Version Control & Deployment
+- **Git & GitHub**: Managing code versions and collaborating on projects.
+- **Deployment**: Deploying web applications using GitHub Pages, Heroku, and Gunicorn.
 
-⭐️⭐️
-
-Version control with Git/GitHub
-
-⭐️⭐️⭐️
-
-Deployment using GitHub Pages, Heroku, and Gunicorn
-
-⭐️⭐️
-
-* * *
+---
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
